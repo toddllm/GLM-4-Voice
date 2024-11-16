@@ -1,3 +1,4 @@
+Cython
 conformer==0.3.2
 deepspeed==0.14.2; sys_platform == 'linux'
 diffusers==0.27.2
